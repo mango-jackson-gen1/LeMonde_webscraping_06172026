@@ -65,6 +65,5 @@ What the workflow does:
 ### References
 
 This setup is based on:
-
 - Sample scraper workflow: <https://github.com/jsoma/scraper-sample/blob/7d3bd39ea3ef5b1b531e1db9f2acec3a685ea903/.github/workflows/scraper.yml>
 - Tutorial video: <https://www.youtube.com/watch?v=QNKxzkNpsko>
